@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_event">ViewEventActivity</string>
+    <string name="map">map</string>
+    <string name="speak_label">mów teraz</string>
+    <string-array name="reply_choices">
+        <item>Tak</item>
+        <item>Nie</item>
+        <item>Niewiem</item>
+    </string-array>
+</resources>
